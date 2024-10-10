@@ -95,7 +95,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Chamath Dilshan - [Your Email]
+Chamath Dilshan - dilshancolonne123@gmail.com
 
 Project Link: [https://github.com/ChamathDilshanC/LayeredarchitectureProject](https://github.com/ChamathDilshanC/LayeredarchitectureProject)
 
